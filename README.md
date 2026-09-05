@@ -12,7 +12,7 @@ Artificial Ipin Chatbot adalah aplikasi chatbot interaktif berbasis Streamlit ya
 
 ## Tampilan Antarmuka
 
-![UI Chatbot](docs/ui_chatbot.jpg)
+![UI Chatbot](images/ui_chatbot.jpg)
 
 ## Cara Menjalankan
 
@@ -52,7 +52,7 @@ streamlit run app.py
 ```
 ├── app.py         # File utama aplikasi Streamlit
 ├── README.md          # Dokumentasi proyek
-├── docs/
+├── images/
 │   └── ui_chatbot.jpg # Gambar antarmuka
 ```
 
